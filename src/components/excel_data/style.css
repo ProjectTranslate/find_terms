@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&family=M+PLUS+Code+Latin:wght@500&family=Rubik:wght@400;500&family=Ubuntu&display=swap');
+h1,h3{
+  color: #982ac7;
+  font-size: 87px;
+  font-family: 'M PLUS Code Latin', sans-serif;
+  padding-top: 20px;
+  text-shadow: 12px 5px 10px #41045c;
+}
+h3{
+    font-size: 20px;
+    padding: 0;
+    margin-right: 70%;
+    margin-top: 10px;
+}
+.but_load{
+    margin-top: 20px;
+    margin-right: 70%;
+}
